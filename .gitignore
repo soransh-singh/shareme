@@ -14,11 +14,12 @@
 /shareme_frontend/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+/shareme_frontend/.DS_Store
+/shareme_frontend/.env.local
+/shareme_frontend/.env.development.local
+/shareme_frontend/.env.test.local
+/shareme_frontend/.env.production.local
+/shareme_frontend/.env
 
 npm-debug.log*
 yarn-debug.log*
